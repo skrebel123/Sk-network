@@ -1,5 +1,5 @@
 # 🚀 About Me
-👋 Hi, I’m **[Your Name]**  
+👋 Hi, I’m **Santosh Kumar **  
 💻 Aspiring **Network Engineer** | Networking Enthusiast | CCNA Learner  
 🌐 Passionate about designing, configuring, and troubleshooting networks.  
 📚 Currently practicing **Cisco Packet Tracer, GNS3, and Wireshark**.  
@@ -26,6 +26,6 @@
 ---
 
 # 📫 Connect with Me  
-- 📧 Email: [your.email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]  
-- 🐙 GitHub: [github.com/yourusername]  
+- 📧 Email: Santosh9733@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/Santosh kumar]  
+- 🐙 GitHub: github.com/skrebel123  
